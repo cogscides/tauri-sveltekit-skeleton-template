@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/50235526/210677902-f64ee851-d613-451d-a462-5136877bf9af.png)
 
-This repository contains a starter template for building Tauri apps using SvelteKit.
+This repository contains a starter template for building Tauri apps using SvelteKit that powered by Skeleton UI library with Tailwind CSS.
 
 ## How to use this template
 
@@ -80,8 +80,10 @@ This will build the app for production and deploy it to the specified platform.
 ## Further reading
 
 -   [Tauri documentation](https://tauri.studio/docs)
+-   [Tauri documentation - Quick Start with SvelteKit](https://tauri.app/v1/guides/getting-started/setup/sveltekit)
 -   [Svelte documentation](https://svelte.dev/docs)
 -   [SvelteKit documentation](https://svelte.dev/docs#SvelteKit)
+-   [Skeleton UI library documentation](https://www.skeleton.dev/docs/why)
 
 ## Similar Repositories
 
