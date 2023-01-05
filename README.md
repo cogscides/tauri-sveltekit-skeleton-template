@@ -39,11 +39,19 @@ npm install
 3.  Start the development server:
 
 ```
-=npm run dev
+npm run tauri dev
 
 ```
 
-This will start the development server and open a new window in your default browser. The app will automatically reload whenever you make changes to the source code.
+or start dev server for browser
+
+```
+npm run dev
+
+```
+
+
+This will start the development server and open a new window. The app will automatically reload whenever you make changes to the source code.
 
 ## Building for production
 
