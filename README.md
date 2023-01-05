@@ -80,3 +80,7 @@ This will build the app for production and deploy it to the specified platform.
 -   [Tauri documentation](https://tauri.studio/docs)
 -   [Svelte documentation](https://svelte.dev/docs)
 -   [SvelteKit documentation](https://svelte.dev/docs#SvelteKit)
+
+## Similar Repositories
+
+- [Tauri and SvelteKit Template](https://github.com/Stijn-B/tauri-sveltekit-example)
