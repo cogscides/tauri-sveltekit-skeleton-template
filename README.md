@@ -1,5 +1,7 @@
 # Tauri SvelteKit Skeleton Template
 
+![image](https://user-images.githubusercontent.com/50235526/210677902-f64ee851-d613-451d-a462-5136877bf9af.png)
+
 This repository contains a starter template for building Tauri apps using SvelteKit.
 
 ## How to use this template
