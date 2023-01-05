@@ -7,7 +7,7 @@ This repository contains a starter template for building Tauri apps using Svelte
 To use this template, run the following command:
 
 ```
-Copy codenpx degit cogscides/tauri-sveltekit-skeleton-template/example <target-directory>
+npx degit cogscides/tauri-sveltekit-skeleton-template/example <target-directory>
 
 ```
 
