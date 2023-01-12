@@ -66,17 +66,6 @@ npm run build
 
 This will create a production build of the app in the `build` directory.
 
-## Deploying
-
-To deploy the app, run the following command:
-
-```
-npm run deploy
-
-```
-
-This will build the app for production and deploy it to the specified platform.
-
 ## Further reading
 
 -   [Tauri documentation](https://tauri.studio/docs)
